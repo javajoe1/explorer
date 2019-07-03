@@ -1,8 +1,10 @@
-node_modules
 .DS_Store
 .idea
 .project
 build
-release
+cypress/screenshots
+cypress/videos
 ncp-debug.log
+node_modules
 npm-debug.log
+release
